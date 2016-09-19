@@ -1,0 +1,16 @@
+/.idea/
+/target/
+/out/
+/output/
+/log/
+/local/
+*.iml
+*.log.*
+*.log
+/*.dat
+/*.idx
+/*.csv
+/*.txt
+.classpath
+.project
+.settings
